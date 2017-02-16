@@ -9,19 +9,6 @@ body{
     padding: 10px;
     background-color: darkorange;
 }
-.menuPrincipal ul li:hover{
-    background-color: red;
-}
-.menuPrincipal ul li a:hover{
-    color:white;
-}
-.menuPrincipal ul li:first-child{
-    border-radius: 15px 0px 0px 15px;
-}
-.menuPrincipal ul li:last-child{
-    border-radius: 0px 15px 15px 0px;
-}
-
 .menuPrincipal ul{
     list-style-type: none;
     padding: 0;
